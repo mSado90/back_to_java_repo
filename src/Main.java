@@ -8,6 +8,7 @@ public class Main {
         String str = "aplauz";
 
         System.out.println(a + b);
+        // new line was added here
     }
 
 }
